@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/but_str1"
+        android:textColor="#000000"
+        android:background="#fadddd"
+        android:textSize="20sp"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/but_str1"
+        android:textColor="#000000"
+        android:background="#fadddd"
+        android:textSize="20sp"
+        android:layout_margin="20dp"
+        android:enabled="false"
+        />
+<!--editable이라는것은 지금은 쓸 수 있지만 나중에 없어질 수도 있음.-->
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/but_str1"
+        android:textColor="#000000"
+        android:background="#fadddd"
+        android:textSize="20sp"
+        android:layout_margin="20dp"
+        android:clickable="false"
+        android:rotation="10"
+        />
+    <!--clickable나 editable은 설정 안하면 기본이 true-->
+</LinearLayout>

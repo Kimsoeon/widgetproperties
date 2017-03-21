@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WidgetProperties</string>
+    <string name="but_str1">Click Button_1</string>
+    <string name="but_str2">Click Button_2</string>
+    <string name="but_str3">Click Button_3</string>
+    <string name="Text1">Text size</string>
+    <string name="Text2">Text color</string>
+    <string name="Text3">Text Typeface</string>
+    <string name="Text4">Text size</string>
+    <string name="Text5">Text sizStylee</string>
+    <string name="Text6">Text Sigle Line Texy Sigle Line Texy Sigle Line Line Text Sigle Line Texy Sigle Line Texy Sigle Line Line</string>
+
+
+</resources>
