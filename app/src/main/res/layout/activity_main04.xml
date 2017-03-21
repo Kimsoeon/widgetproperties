@@ -9,6 +9,7 @@
         android:layout_height="wrap_content"
         android:text="@string/Text1"
         android:textSize="30sp"
+        android:background="#64000000"
      />
 
     <TextView
@@ -16,7 +17,7 @@
         android:layout_height="wrap_content"
         android:text="@string/Text2"
         android:textSize="20sp"
-        android:textColor="#ca0303"
+        android:textColor="#ba4545"
     />
 
 
